@@ -1,2 +1,2 @@
 # design-patterns
-I summed up all the design patterns I meet in this repository
+I summarize all the design patterns I meet in this repository
